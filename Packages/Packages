@@ -6,6 +6,7 @@ alsa-plugins
 alsa-utils
 android-tools
 arandr
+aria2
 autoconf
 automake
 avahi
@@ -68,10 +69,11 @@ gnuchess
 gnumeric
 grep
 grub
+gst-libav
+gst-plugins-ugly
 gtk-engine-murrine
 gvfs
 gvfs-afc
-gvfs-gphoto2
 gvfs-mtp
 gweled
 gzip
@@ -83,6 +85,7 @@ hexchat
 htop
 i3lock
 icedtea-web
+ifuse
 imagewriter
 inetutils
 intel-ucode
@@ -97,12 +100,13 @@ jdk8-openjdk
 jfsutils
 json-c
 jwm
+keychain
 lbreakout2
 leafpad
 less
 lib32-mesa
 lib32-mesa-demos
-libimobiledevice
+libgpod
 libzip
 licenses
 lightdm-gtk-greeter
@@ -140,6 +144,7 @@ mhwd-db
 mkinitcpio-nfs-utils
 mobile-broadband-provider-info
 modemmanager
+monodevelop
 nano
 nbd
 ndiswrapper-utils

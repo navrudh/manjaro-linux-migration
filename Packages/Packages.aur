@@ -1,4 +1,8 @@
 android-studio
 cower
+libimobiledevice-git
+libplist-git
+libusbmuxd-git
 pacaur
 sublime-text-dev
+usbmuxd-git

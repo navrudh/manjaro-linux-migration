@@ -31,6 +31,7 @@ cronie
 cryptsetup
 dconf
 deadbeef
+deluge
 desktop-file-utils
 device-mapper
 dhclient
@@ -55,6 +56,7 @@ feh
 file
 filesystem
 findutils
+fish
 flex
 gawk
 gcc
@@ -67,6 +69,8 @@ gnome-keyring
 gnome-themes-standard
 gnuchess
 gnumeric
+go
+go-tools
 grep
 grub
 gst-libav
@@ -74,6 +78,7 @@ gst-plugins-ugly
 gtk-engine-murrine
 gvfs
 gvfs-afc
+gvfs-gphoto2
 gvfs-mtp
 gweled
 gzip
@@ -89,6 +94,7 @@ ifuse
 imagewriter
 inetutils
 intel-ucode
+intellij-idea-community-edition
 inxi
 iproute2
 iptables
@@ -106,6 +112,7 @@ leafpad
 less
 lib32-mesa
 lib32-mesa-demos
+libfdk-aac
 libgpod
 libzip
 licenses
@@ -181,6 +188,7 @@ preload
 procps-ng
 ps_mem
 psmisc
+python-pip
 python2-xdg
 refind-efi
 reiserfsprogs
